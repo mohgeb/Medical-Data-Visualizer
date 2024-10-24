@@ -42,4 +42,3 @@ def draw_heat_map():
 
 draw_cat_plot()
 draw_heat_map()
-
