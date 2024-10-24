@@ -1,2 +1,2 @@
 # Medical-Data-Visualizer
- A Python-based project that visualizes medical examination data using Seaborn and Matplotlib. It features a categorical plot for key health indicators (cholesterol, glucose, BMI) and a heat map illustrating correlations between medical variables, helping users identify trends in patient data.
+A data visualization project using Pandas, Matplotlib, and Seaborn to analyze medical examination data. This project creates categorical plots and heatmaps to explore correlations between various health factors (e.g., cholesterol, glucose levels, BMI) and cardiovascular disease. The visualizations provide insights into the health data and help identify key health trends across the dataset.
